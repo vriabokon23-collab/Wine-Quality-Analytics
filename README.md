@@ -53,7 +53,9 @@ These variables were selected based on their strong correlation with wine qualit
 
 The complete analysis with detailed visualizations, statistical tables, and in-depth modeling results is available in the interactive HTML report:
 
-**[View Full Report - Report_Template.html](Report_Template.html)**
+### 🔗 [**OPEN FULL INTERACTIVE REPORT →**](https://htmlpreview.github.io/?https://github.com/vriabokon23-collab/wine-quality-analytics/blob/main/Report_Template.html)
+
+Or view directly: [Report_Template.html](Report_Template.html)
 
 The report includes:
 - Detailed exploratory data analysis with visualizations
